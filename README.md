@@ -240,6 +240,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Grid Studio](https://github.com/ricklamers/gridstudio) | Grid studio is a web-based spreadsheet application with full integration of the Python programming language. |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
+| [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
 
 
 ## Machine Learning in General Purpose
@@ -425,6 +426,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) & [(cheaper PDF version)](http://gum.co/everydaydata)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
@@ -548,6 +550,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 - [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
+- [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 
 
 
@@ -674,6 +677,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
 - [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
+- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 
 
 ## Telegram Channels
@@ -776,6 +780,7 @@ Some data mining competition platforms
 - [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 - [San Fransisco Government Open Data](https://data.sfgov.org/)
 - [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+- [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](http://index.okfn.org/)
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 - [GHTorrent](http://ghtorrent.org/)
